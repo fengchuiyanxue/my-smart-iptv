@@ -1,1 +1,18 @@
-CCTV-1,http://example.com/cctv1.m3u8
+GPT-香港,#genre#
+翡翠台,jade_twn
+明珠台,pearl_twn
+无线新闻,inews_twn
+TVBPLUS,j2_twn
+ViuTV,viu1_twn
+
+GPT-台湾,#genre#
+台视 HD,ttv_taiwan
+台视新闻,ttvnews_twn
+中视 HD,zhongshihd_twn
+华视 HD,ctshd_twn
+
+GPT-央视,#genre#
+CCTV-1 综合,cctv1
+CCTV-2 财经,cctv2
+CCTV-5 体育,cctv5
+CCTV-6 电影,cctv6
