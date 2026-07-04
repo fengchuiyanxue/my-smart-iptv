@@ -1,0 +1,1 @@
+CCTV-1,http://example.com/cctv1.m3u8
